@@ -1,3 +1,3 @@
 # BarberShop
 
-### Sistema em desenvolvimento para agendamento de atendimentos de barbearias.
+### Sistema em Java desenvolvido para agendamento de atendimentos de barbearias.
